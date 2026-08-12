@@ -1,0 +1,4 @@
+__pycache__/
+*.enp
+*.ovr
+.DS_Store
