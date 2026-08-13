@@ -20,7 +20,6 @@
 - **ENVI 5.5+**（含 IDL 8.8+ 和 `taskengine.exe`）
 - **Python 3.8–3.11**（实测 3.11 通过）
 - **envipyengine**（ENVI 官方 Python 任务引擎，PyPI 安装）
-- ENVI 自带的 **GMTED2010.jp2** 全球 DEM（正射校正必需）
 
 ## 快速开始
 
